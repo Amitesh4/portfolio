@@ -43,8 +43,8 @@ export const site: SiteConfig = {
   focus: ["Software Development", "AI / ML", "Cybersecurity"],
   github: "https://github.com/Amitesh4",
   linkedin: "https://www.linkedin.com/in/p-amitesh-43b9632a9/",
-  email: "",
-  resumeUrl: null,
+  email: "amiteshpanaganti@gmail.com",
+  resumeUrl: "/resume.pdf",
   resumeName: "Amitesh_P_Resume.pdf",
 };
 
